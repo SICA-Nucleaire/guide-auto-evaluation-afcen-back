@@ -29,10 +29,11 @@ exports.getQuestionnaire = (theme) => {
 	tab.push(questionDebutant);
 	tab.push(questionIntermediaire);
 	tab.push(questionExpert);
+	const id = `${questionDebutant.id.substring(1).slice(0, -1)}-${questionIntermediaire.id.substring(1).slice(0, -1)}-${questionExpert.id.substring(1).slice(0, -1)}`
 	const scoreMax = questionDebutant.scoreMax + questionIntermediaire.scoreMax + questionExpert.scoreMax
 	tab.push({
 		         "scoreMax" : scoreMax,
-		         // "id" : uuidv4()
+		         "id" : id
 	         })
 	console.log(tab)
 	return tab
