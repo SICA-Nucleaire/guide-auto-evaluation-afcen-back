@@ -1,7 +1,7 @@
 exports.questions = [
 	{
 		"SMQ" : {
-			"debutant" : [
+			"Débutant" : [
 				{
 					"bonnesReponses" :
 						[
@@ -71,7 +71,7 @@ exports.questions = [
 					"scoreMax" : 2
 				},
 			],
-			"intermediaire" : [
+			"Intermédiaire" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -118,7 +118,7 @@ exports.questions = [
 				}
 				,
 			],
-			"expert" : [
+			"Expert" : [
 				{
 					"bonnesReponses" :
 						[
@@ -174,7 +174,7 @@ exports.questions = [
 			]
 		},
 		"Aspect matériel" : {
-			"debutant" : [
+			"Débutant" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -236,7 +236,7 @@ exports.questions = [
 					"scoreMax" : 1
 				},
 			],
-			"intermediaire" : [
+			"Intermédiaire" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -280,7 +280,7 @@ exports.questions = [
 					"scoreMax" : 1
 				},
 			],
-			"expert" : [
+			"Expert" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -332,7 +332,7 @@ exports.questions = [
 			]
 		},
 		"Déclaration de Conformité" : {
-			"debutant" : [
+			"Débutant" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -400,7 +400,7 @@ exports.questions = [
 					"scoreMax" : 2
 				},
 			],
-			"intermediaire" : [
+			"Intermédiaire" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -444,7 +444,7 @@ exports.questions = [
 					"scoreMax" : 1
 				},
 			],
-			"expert" : [
+			"Expert" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -496,7 +496,7 @@ exports.questions = [
 			]
 		},
 		"Document de Suivi" : {
-			"debutant" : [
+			"Débutant" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -564,7 +564,7 @@ exports.questions = [
 					"scoreMax" : 1
 				},
 			],
-			"intermediaire" : [
+			"Intermédiaire" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -608,7 +608,7 @@ exports.questions = [
 					"scoreMax" : 1
 				},
 			],
-			"expert" : [
+			"Expert" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -660,7 +660,7 @@ exports.questions = [
 			],
 		},
 		"Procès verbal d'essais" : {
-			"debutant" : [
+			"Débutant" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -728,7 +728,7 @@ exports.questions = [
 					"scoreMax" : 1
 				},
 			],
-			"intermediaire" : [
+			"Intermédiaire" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -772,7 +772,7 @@ exports.questions = [
 					"scoreMax" : 1
 				},
 			],
-			"expert" : [
+			"Expert" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -824,7 +824,7 @@ exports.questions = [
 			],
 		},
 		"Rapport de Fin de Fabrication" : {
-			"debutant" : [
+			"Débutant" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -892,7 +892,7 @@ exports.questions = [
 					"scoreMax" : 2
 				},
 			],
-			"intermediaire" : [
+			"Intermédiaire" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -936,7 +936,7 @@ exports.questions = [
 					"scoreMax" : 1
 				},
 			],
-			"expert" : [
+			"Expert" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -988,7 +988,7 @@ exports.questions = [
 			],
 		},
 		"Spécification d'approvisionnement" : {
-			"debutant" : [
+			"Débutant" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -1056,7 +1056,7 @@ exports.questions = [
 					"scoreMax" : 1
 				},
 			],
-			"intermediaire" : [
+			"Intermédiaire" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -1100,7 +1100,7 @@ exports.questions = [
 					"scoreMax" : 1
 				},
 			],
-			"expert" : [
+			"Expert" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -1152,7 +1152,7 @@ exports.questions = [
 			],
 		},
 		"Interférence électromagnétique" : {
-			"debutant" : [
+			"Débutant" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -1220,7 +1220,7 @@ exports.questions = [
 					"scoreMax" : 2
 				},
 			],
-			"intermediaire" : [
+			"Intermédiaire" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -1264,7 +1264,7 @@ exports.questions = [
 					"scoreMax" : 1
 				},
 			],
-			"expert" : [
+			"Expert" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -1316,7 +1316,7 @@ exports.questions = [
 			],
 		},
 		"Résistance mécanique" : {
-			"debutant" : [
+			"Débutant" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -1384,7 +1384,7 @@ exports.questions = [
 					"scoreMax" : 2
 				},
 			],
-			"intermediaire" : [
+			"Intermédiaire" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -1428,7 +1428,7 @@ exports.questions = [
 					"scoreMax" : 1
 				},
 			],
-			"expert" : [
+			"Expert" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -1480,7 +1480,7 @@ exports.questions = [
 			],
 		},
 		"Enveloppes" : {
-			"debutant" : [
+			"Débutant" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -1548,7 +1548,7 @@ exports.questions = [
 					"scoreMax" : 2
 				},
 			],
-			"intermediaire" : [
+			"Intermédiaire" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -1592,7 +1592,7 @@ exports.questions = [
 					"scoreMax" : 1
 				},
 			],
-			"expert" : [
+			"Expert" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -1644,7 +1644,7 @@ exports.questions = [
 			],
 		},
 		"Marquage" : {
-			"debutant" : [
+			"Débutant" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -1712,7 +1712,7 @@ exports.questions = [
 					"scoreMax" : 2
 				},
 			],
-			"intermediaire" : [
+			"Intermédiaire" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -1756,7 +1756,7 @@ exports.questions = [
 					"scoreMax" : 1
 				},
 			],
-			"expert" : [
+			"Expert" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -1808,7 +1808,7 @@ exports.questions = [
 			],
 		},
 		"Sertissage" : {
-			"debutant" : [
+			"Débutant" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -1876,7 +1876,7 @@ exports.questions = [
 					"scoreMax" : 1
 				}, // 80
 			],
-			"intermediaire" : [
+			"Intermédiaire" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -1920,7 +1920,7 @@ exports.questions = [
 					"scoreMax" : 3
 				}, // 82
 			],
-			"expert" : [
+			"Expert" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -1972,7 +1972,7 @@ exports.questions = [
 			],
 		},
 		"Polymère" : {
-			"debutant" : [
+			"Débutant" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -2040,7 +2040,7 @@ exports.questions = [
 					"scoreMax" : 2
 				}, // 87
 			],
-			"intermediaire" : [
+			"Intermédiaire" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -2084,7 +2084,7 @@ exports.questions = [
 					"scoreMax" : 1
 				}, // 89
 			],
-			"expert" : [
+			"Expert" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -2136,7 +2136,7 @@ exports.questions = [
 			],
 		},
 		"Résistance au feu" : {
-			"debutant" : [
+			"Débutant" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -2204,7 +2204,7 @@ exports.questions = [
 					"scoreMax" : 2
 				},
 			],
-			"intermediaire" : [
+			"Intermédiaire" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -2248,7 +2248,7 @@ exports.questions = [
 					"scoreMax" : 1
 				},
 			],
-			"expert" : [
+			"Expert" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -2300,7 +2300,7 @@ exports.questions = [
 			],
 		},
 		"Termipoint" : {
-			"debutant" : [
+			"Débutant" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -2368,7 +2368,7 @@ exports.questions = [
 					"scoreMax" : 2
 				},
 			],
-			"intermediaire" : [
+			"Intermédiaire" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -2412,7 +2412,7 @@ exports.questions = [
 					"scoreMax" : 1
 				},
 			],
-			"expert" : [
+			"Expert" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -2462,7 +2462,7 @@ exports.questions = [
 			],
 		},
 		"Wrapping" : {
-			"debutant" : [
+			"Débutant" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -2530,7 +2530,7 @@ exports.questions = [
 					"scoreMax" : 1
 				},
 			],
-			"intermediaire" : [
+			"Intermédiaire" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -2574,7 +2574,7 @@ exports.questions = [
 					"scoreMax" : 1
 				},
 			],
-			"expert" : [
+			"Expert" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -2626,7 +2626,7 @@ exports.questions = [
 			],
 		},
 		"Exigences et recommandations spécifiques aux matériels" : {
-			"debutant" : [
+			"Débutant" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -2694,7 +2694,7 @@ exports.questions = [
 					"scoreMax" : 2
 				},
 			],
-			"intermediaire" : [
+			"Intermédiaire" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -2738,7 +2738,7 @@ exports.questions = [
 					"scoreMax" : 3
 				},
 			],
-			"expert" : [
+			"Expert" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -2790,7 +2790,7 @@ exports.questions = [
 			],
 		},
 		"Interchangeabilité" : {
-			"debutant" : [
+			"Débutant" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -2858,7 +2858,7 @@ exports.questions = [
 					"scoreMax" : 2
 				},
 			],
-			"intermediaire" : [
+			"Intermédiaire" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -2902,7 +2902,7 @@ exports.questions = [
 					"scoreMax" : 3
 				},
 			],
-			"expert" : [
+			"Expert" : [
 				{
 					"bonnesReponses" : [],
 					"difficulte" : "Expert",
@@ -2952,7 +2952,7 @@ exports.questions = [
 			],
 		},
 		"Câblage interne" : {
-			"debutant" : [
+			"Débutant" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -3020,7 +3020,7 @@ exports.questions = [
 					"scoreMax" : 2
 				},
 			],
-			"intermediaire" : [
+			"Intermédiaire" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -3064,7 +3064,7 @@ exports.questions = [
 					"scoreMax" : 1
 				},
 			],
-			"expert" : [
+			"Expert" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -3116,7 +3116,7 @@ exports.questions = [
 			],
 		},
 		"Maintenance" : {
-			"debutant" : [
+			"Débutant" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -3184,7 +3184,7 @@ exports.questions = [
 					"scoreMax" : 1
 				},
 			],
-			"intermediaire" : [
+			"Intermédiaire" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -3228,7 +3228,7 @@ exports.questions = [
 					"scoreMax" : 1
 				},
 			],
-			"expert" : [
+			"Expert" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -3279,7 +3279,7 @@ exports.questions = [
 			],
 		},
 		"Contrôles et essais" : {
-			"debutant" : [
+			"Débutant" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -3347,7 +3347,7 @@ exports.questions = [
 					"scoreMax" : 2
 				},
 			],
-			"intermediaire" : [
+			"Intermédiaire" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -3391,7 +3391,7 @@ exports.questions = [
 					"scoreMax" : 3
 				},
 			],
-			"expert" : [
+			"Expert" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -3443,7 +3443,7 @@ exports.questions = [
 			],
 		},
 		"Déverminage" : {
-			"debutant" : [
+			"Débutant" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -3511,7 +3511,7 @@ exports.questions = [
 					"scoreMax" : 2
 				},
 			],
-			"intermediaire" : [
+			"Intermédiaire" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -3555,7 +3555,7 @@ exports.questions = [
 					"scoreMax" : 1
 				},
 			],
-			"expert" : [
+			"Expert" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -3607,7 +3607,7 @@ exports.questions = [
 			],
 		},
 		"Extension de KLIF matériel" : {
-			"debutant" : [
+			"Débutant" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -3675,7 +3675,7 @@ exports.questions = [
 					"scoreMax" : 2
 				},
 			],
-			"intermediaire" : [
+			"Intermédiaire" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -3719,7 +3719,7 @@ exports.questions = [
 					"scoreMax" : 3
 				},
 			],
-			"expert" : [
+			"Expert" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -3771,7 +3771,7 @@ exports.questions = [
 			],
 		},
 		"KLIF matériel - Données d'entrée" : {
-			"debutant" : [
+			"Débutant" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -3839,7 +3839,7 @@ exports.questions = [
 					"scoreMax" : 2
 				},
 			],
-			"intermediaire" : [
+			"Intermédiaire" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -3883,7 +3883,7 @@ exports.questions = [
 					"scoreMax" : 3
 				},
 			],
-			"expert" : [
+			"Expert" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -3935,7 +3935,7 @@ exports.questions = [
 			],
 		},
 		"KLIF matériel - Généralités et documents" : {
-			"debutant" : [
+			"Débutant" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -4003,7 +4003,7 @@ exports.questions = [
 					"scoreMax" : 2
 				},
 			],
-			"intermediaire" : [
+			"Intermédiaire" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -4047,7 +4047,7 @@ exports.questions = [
 					"scoreMax" : 1
 				},
 			],
-			"expert" : [
+			"Expert" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -4099,7 +4099,7 @@ exports.questions = [
 			],
 		},
 		"KLIF matériel - Contrôle des performances" : {
-			"debutant" : [
+			"Débutant" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -4167,7 +4167,7 @@ exports.questions = [
 					"scoreMax" : 2
 				},
 			],
-			"intermediaire" : [
+			"Intermédiaire" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -4211,7 +4211,7 @@ exports.questions = [
 					"scoreMax" : 3
 				},
 			],
-			"expert" : [
+			"Expert" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -4263,7 +4263,7 @@ exports.questions = [
 			],
 		},
 		"KLIF aux conditions normales d’ambiance" : {
-			"debutant" : [
+			"Débutant" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -4331,7 +4331,7 @@ exports.questions = [
 					"scoreMax" : 2
 				},
 			],
-			"intermediaire" : [
+			"Intermédiaire" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -4375,7 +4375,7 @@ exports.questions = [
 					"scoreMax" : 1
 				},
 			],
-			"expert" : [
+			"Expert" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -4427,7 +4427,7 @@ exports.questions = [
 			],
 		},
 		"KLIF K3" : {
-			"debutant" : [
+			"Débutant" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -4495,7 +4495,7 @@ exports.questions = [
 					"scoreMax" : 2
 				},
 			],
-			"intermediaire" : [
+			"Intermédiaire" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -4539,7 +4539,7 @@ exports.questions = [
 					"scoreMax" : 3
 				},
 			],
-			"expert" : [
+			"Expert" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -4591,7 +4591,7 @@ exports.questions = [
 			],
 		},
 		"KLIF K2" : {
-			"debutant" : [
+			"Débutant" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -4659,7 +4659,7 @@ exports.questions = [
 					"scoreMax" : 2
 				},
 			],
-			"intermediaire" : [
+			"Intermédiaire" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -4703,7 +4703,7 @@ exports.questions = [
 					"scoreMax" : 1
 				},
 			],
-			"expert" : [
+			"Expert" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -4755,7 +4755,7 @@ exports.questions = [
 			],
 		},
 		"KLIF K1" : {
-			"debutant" : [
+			"Débutant" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -4823,7 +4823,7 @@ exports.questions = [
 					"scoreMax" : 1
 				},
 			],
-			"intermediaire" : [
+			"Intermédiaire" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -4867,7 +4867,7 @@ exports.questions = [
 					"scoreMax" : 3
 				},
 			],
-			"expert" : [
+			"Expert" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -4919,7 +4919,7 @@ exports.questions = [
 			],
 		},
 		"KLIF AG" : {
-			"debutant" : [
+			"Débutant" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -4987,7 +4987,7 @@ exports.questions = [
 					"scoreMax" : 2
 				},
 			],
-			"intermediaire" : [
+			"Intermédiaire" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -5031,7 +5031,7 @@ exports.questions = [
 					"scoreMax" : 3
 				},
 			],
-			"expert" : [
+			"Expert" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -5083,7 +5083,7 @@ exports.questions = [
 			],
 		},
 		"Obsolescence" : {
-			"debutant" : [
+			"Débutant" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -5151,7 +5151,7 @@ exports.questions = [
 					"scoreMax" : 2
 				},
 			],
-			"intermediaire" : [
+			"Intermédiaire" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -5195,7 +5195,7 @@ exports.questions = [
 					"scoreMax" : 1
 				},
 			],
-			"expert" : [
+			"Expert" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -5246,7 +5246,7 @@ exports.questions = [
 			],
 		},
 		"ANFL" : {
-			"debutant" : [
+			"Débutant" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -5314,7 +5314,7 @@ exports.questions = [
 					"scoreMax" : 2
 				},
 			],
-			"intermediaire" : [
+			"Intermédiaire" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -5363,7 +5363,7 @@ exports.questions = [
 					"scoreMax" : 3
 				},
 			],
-			"expert" : [
+			"Expert" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -5415,7 +5415,7 @@ exports.questions = [
 			],
 		},
 		"HDL" : {
-			"debutant" : [
+			"Débutant" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -5483,7 +5483,7 @@ exports.questions = [
 					"scoreMax" : 2
 				},
 			],
-			"intermediaire" : [
+			"Intermédiaire" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -5527,7 +5527,7 @@ exports.questions = [
 					"scoreMax" : 3
 				},
 			],
-			"expert" : [
+			"Expert" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -5579,7 +5579,7 @@ exports.questions = [
 			],
 		},
 		"Système programmé" : {
-			"debutant" : [
+			"Débutant" : [
 				{
 					"bonnesReponses" : [],
 					"difficulte" : "Débutant",
@@ -5646,7 +5646,7 @@ exports.questions = [
 					"scoreMax" : 2
 				},
 			],
-			"intermediaire" : [
+			"Intermédiaire" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -5690,7 +5690,7 @@ exports.questions = [
 					"scoreMax" : 3
 				},
 			],
-			"expert" : [
+			"Expert" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -5742,7 +5742,7 @@ exports.questions = [
 			],
 		},
 		"Dossier de Référence" : {
-			"debutant" : [
+			"Débutant" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -5810,7 +5810,7 @@ exports.questions = [
 					"scoreMax" : 1
 				},
 			],
-			"intermediaire" : [
+			"Intermédiaire" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -5854,7 +5854,7 @@ exports.questions = [
 					"scoreMax" : 1
 				},
 			],
-			"expert" : [
+			"Expert" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -5905,7 +5905,7 @@ exports.questions = [
 			],
 		},
 		"Opération sensible d’approvisionnement ou de fabrication" : {
-			"debutant" : [
+			"Débutant" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -5973,7 +5973,7 @@ exports.questions = [
 					"scoreMax" : 2
 				},
 			],
-			"intermediaire" : [
+			"Intermédiaire" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -6017,7 +6017,7 @@ exports.questions = [
 					"scoreMax" : 3
 				},
 			],
-			"expert" : [
+			"Expert" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -6069,7 +6069,7 @@ exports.questions = [
 			],
 		},
 		"Essais sur prélèvement" : {
-			"debutant" : [
+			"Débutant" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -6137,7 +6137,7 @@ exports.questions = [
 					"scoreMax" : 2
 				},
 			],
-			"intermediaire" : [
+			"Intermédiaire" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -6181,7 +6181,7 @@ exports.questions = [
 					"scoreMax" : 3
 				},
 			],
-			"expert" : [
+			"Expert" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -6233,7 +6233,7 @@ exports.questions = [
 			],
 		},
 		"Études" : {
-			"debutant" : [
+			"Débutant" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -6300,7 +6300,7 @@ exports.questions = [
 					"scoreMax" : 2
 				},
 			],
-			"intermediaire" : [
+			"Intermédiaire" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -6344,7 +6344,7 @@ exports.questions = [
 					"scoreMax" : 3
 				},
 			],
-			"expert" : [
+			"Expert" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -6396,7 +6396,7 @@ exports.questions = [
 			],
 		},
 		"Séparation" : {
-			"debutant" : [
+			"Débutant" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -6458,7 +6458,7 @@ exports.questions = [
 					"scoreMax" : 2
 				},
 			],
-			"intermediaire" : [
+			"Intermédiaire" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -6502,7 +6502,7 @@ exports.questions = [
 					"scoreMax" : 1
 				},
 			],
-			"expert" : [
+			"Expert" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -6554,7 +6554,7 @@ exports.questions = [
 			],
 		},
 		"Exigences particulières pour le séisme" : {
-			"debutant" : [
+			"Débutant" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -6621,7 +6621,7 @@ exports.questions = [
 					"scoreMax" : 2
 				},
 			],
-			"intermediaire" : [
+			"Intermédiaire" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -6665,7 +6665,7 @@ exports.questions = [
 					"scoreMax" : 1
 				},
 			],
-			"expert" : [
+			"Expert" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -6717,7 +6717,7 @@ exports.questions = [
 			],
 		},
 		"Dispositifs" : {
-			"debutant" : [
+			"Débutant" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -6785,7 +6785,7 @@ exports.questions = [
 					"scoreMax" : 2
 				},
 			],
-			"intermediaire" : [
+			"Intermédiaire" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -6829,7 +6829,7 @@ exports.questions = [
 					"scoreMax" : 1
 				},
 			],
-			"expert" : [
+			"Expert" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -6881,7 +6881,7 @@ exports.questions = [
 			],
 		},
 		"Raccordements" : {
-			"debutant" : [
+			"Débutant" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -6949,7 +6949,7 @@ exports.questions = [
 					"scoreMax" : 2
 				},
 			],
-			"intermediaire" : [
+			"Intermédiaire" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -6993,7 +6993,7 @@ exports.questions = [
 					"scoreMax" : 3
 				},
 			],
-			"expert" : [
+			"Expert" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -7045,7 +7045,7 @@ exports.questions = [
 			],
 		},
 		"Réseaux de terre et de masse" : {
-			"debutant" : [
+			"Débutant" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -7112,7 +7112,7 @@ exports.questions = [
 					"scoreMax" : 2
 				},
 			],
-			"intermediaire" : [
+			"Intermédiaire" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -7156,7 +7156,7 @@ exports.questions = [
 					"scoreMax" : 3
 				},
 			],
-			"expert" : [
+			"Expert" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -7208,7 +7208,7 @@ exports.questions = [
 			],
 		},
 		"Identification des liaisons" : {
-			"debutant" : [
+			"Débutant" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -7276,7 +7276,7 @@ exports.questions = [
 					"scoreMax" : 2
 				},
 			],
-			"intermediaire" : [
+			"Intermédiaire" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -7320,7 +7320,7 @@ exports.questions = [
 					"scoreMax" : 1
 				},
 			],
-			"expert" : [
+			"Expert" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -7372,7 +7372,7 @@ exports.questions = [
 			],
 		},
 		"Vérifications" : {
-			"debutant" : [
+			"Débutant" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -7439,7 +7439,7 @@ exports.questions = [
 					"scoreMax" : 2
 				},
 			],
-			"intermediaire" : [
+			"Intermédiaire" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -7483,7 +7483,7 @@ exports.questions = [
 					"scoreMax" : 1
 				},
 			],
-			"expert" : [
+			"Expert" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -7535,7 +7535,7 @@ exports.questions = [
 			],
 		},
 		"Pérennité" : {
-			"debutant" : [
+			"Débutant" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -7603,7 +7603,7 @@ exports.questions = [
 					"scoreMax" : 2
 				},
 			],
-			"intermediaire" : [
+			"Intermédiaire" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -7647,7 +7647,7 @@ exports.questions = [
 					"scoreMax" : 3
 				},
 			],
-			"expert" : [
+			"Expert" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -7699,7 +7699,7 @@ exports.questions = [
 			],
 		},
 		"Exigences de sûreté et exigences fonctionnelles" : {
-			"debutant" : [
+			"Débutant" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -7767,7 +7767,7 @@ exports.questions = [
 					"scoreMax" : 1
 				},
 			],
-			"intermediaire" : [
+			"Intermédiaire" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -7811,7 +7811,7 @@ exports.questions = [
 					"scoreMax" : 3
 				},
 			],
-			"expert" : [
+			"Expert" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -7863,7 +7863,7 @@ exports.questions = [
 			],
 		},
 		"Exigences en matière de conception du système électrique" : {
-			"debutant" : [
+			"Débutant" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -7930,7 +7930,7 @@ exports.questions = [
 					"scoreMax" : 2
 				},
 			],
-			"intermediaire" : [
+			"Intermédiaire" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -7974,7 +7974,7 @@ exports.questions = [
 					"scoreMax" : 1
 				},
 			],
-			"expert" : [
+			"Expert" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -8026,7 +8026,7 @@ exports.questions = [
 			],
 		},
 		"Architecture du système électrique" : {
-			"debutant" : [
+			"Débutant" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -8093,7 +8093,7 @@ exports.questions = [
 					"scoreMax" : 2
 				},
 			],
-			"intermediaire" : [
+			"Intermédiaire" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -8137,7 +8137,7 @@ exports.questions = [
 					"scoreMax" : 1
 				},
 			],
-			"expert" : [
+			"Expert" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -8189,7 +8189,7 @@ exports.questions = [
 			],
 		},
 		"Conception des systèmes électriques" : {
-			"debutant" : [
+			"Débutant" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -8257,7 +8257,7 @@ exports.questions = [
 					"scoreMax" : 2
 				}
 			],
-			"intermediaire" : [
+			"Intermédiaire" : [
 				{
 					"bonnesReponses" : [
 						{
@@ -8301,7 +8301,7 @@ exports.questions = [
 					"scoreMax" : 1
 				}
 			],
-			"expert" : [
+			"Expert" : [
 				{
 					"bonnesReponses" : [
 						{

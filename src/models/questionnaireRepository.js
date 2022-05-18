@@ -23,9 +23,9 @@ function getRandomInt(max) {
 
 exports.getQuestionnaire = (theme) => {
 	let tab = []
-	const questionDebutant = questions[0][theme]["debutant"][getRandomInt(3)]
-	const questionIntermediaire = questions[0][theme]["intermediaire"][getRandomInt(2)]
-	const questionExpert = questions[0][theme]["expert"][getRandomInt(2)]
+	const questionDebutant = questions[0][theme]["Débutant"][getRandomInt(3)]
+	const questionIntermediaire = questions[0][theme]["Intermédiaire"][getRandomInt(2)]
+	const questionExpert = questions[0][theme]["Expert"][getRandomInt(2)]
 	tab.push(questionDebutant);
 	tab.push(questionIntermediaire);
 	tab.push(questionExpert);
@@ -35,18 +35,16 @@ exports.getQuestionnaire = (theme) => {
 		         "scoreMax" : scoreMax,
 		         "id" : id
 	         })
-	console.log(tab)
 	return tab
 }
 
 exports.compareQuestionBonnesReponses = (numeroQuestion, bonnesReponses, theme, difficulte) => {
 	let questionTrouvee = {};
 	for (const question of questions[0][theme][difficulte]) {
-		if (question.numeroQuestion === numeroQuestion) {
+		if (question.numeroQuestion == numeroQuestion) {
 			questionTrouvee = question;
 		}
 	}
-
 	if (!questionTrouvee) {
 		throw new Error('Question introuvable');
 	}
