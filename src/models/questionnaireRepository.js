@@ -48,6 +48,5 @@ exports.compareQuestionBonnesReponses = (numeroQuestion, bonnesReponses, theme, 
 	if (!questionTrouvee) {
 		throw new Error('Question introuvable');
 	}
-
 	return JSON.stringify(bonnesReponses) === JSON.stringify(questionTrouvee.bonnesReponses)
 }
