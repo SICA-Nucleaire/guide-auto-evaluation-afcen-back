@@ -38,6 +38,13 @@ exports.getQuestionnaire = (theme) => {
 	return tab
 }
 
+const isInArray = (array, intitule) => {
+	const requiredIndex = array.findIndex(el => {
+		return el.intitule === String(intitule);
+	})
+	return requiredIndex !== -1;
+}
+
 exports.compareQuestionBonnesReponses = (numeroQuestion, bonnesReponses, theme, difficulte) => {
 	let questionTrouvee = {};
 	for (const question of questions[0][theme][difficulte]) {
@@ -47,6 +54,14 @@ exports.compareQuestionBonnesReponses = (numeroQuestion, bonnesReponses, theme, 
 	}
 	if (!questionTrouvee) {
 		throw new Error('Question introuvable');
+	}
+	if (bonnesReponses.length > 1) {
+		for (const bonneReponse of bonnesReponses) {
+			if (!isInArray(questionTrouvee.bonnesReponses, bonneReponse.intitule)) {
+				return false
+			}
+		}
+		return true
 	}
 	return JSON.stringify(bonnesReponses) === JSON.stringify(questionTrouvee.bonnesReponses)
 }
