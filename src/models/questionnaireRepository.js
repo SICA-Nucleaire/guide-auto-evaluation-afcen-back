@@ -48,13 +48,18 @@ const isInArray = (array, intitule) => {
 exports.compareQuestionBonnesReponses = (numeroQuestion, bonnesReponses, theme, difficulte) => {
 	let questionTrouvee = {};
 	for (const question of questions[0][theme][difficulte]) {
-		if (question.numeroQuestion == numeroQuestion) {
+		if (question.numeroQuestion === numeroQuestion) {
 			questionTrouvee = question;
 		}
 	}
 	if (!questionTrouvee) {
 		throw new Error('Question introuvable');
 	}
+
+	if (questionTrouvee.bonnesReponses.length !== bonnesReponses.length) {
+		return false
+	}
+
 	if (bonnesReponses.length > 1) {
 		for (const bonneReponse of bonnesReponses) {
 			if (!isInArray(questionTrouvee.bonnesReponses, bonneReponse.intitule)) {

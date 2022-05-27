@@ -80,7 +80,7 @@ exports.questions = [
 					],
 					"difficulte" : "Intermédiaire",
 					"id" : "{e2e2b9ae-116f-4c92-b495-3ed1b6f8b8f1}",
-					"intituleDeLaQuestion" : "Tout Titulaire en charge d'une activité affectant un produit classé de sûreté soumis au RCC-E, doit mettre en œuvre un SMQ qui respecte les exigences de la norme ISO 19443.",
+					"intituleDeLaQuestion" : "Tout Titulaire en charge d’une activité affectant un produit classé de sûreté soumis au RCC-E, doit mettre en œuvre un SMQ qui respecte les exigences de la norme ISO 19443.",
 					"mauvaisesReponses" : [
 						{
 							"intitule" : "Vrai"
@@ -94,7 +94,7 @@ exports.questions = [
 					"bonnesReponses" :
 						[
 							{
-								"intitule" : "S'assurer de la gestion de la cohérence des données"
+								"intitule" : "S’assurer de la gestion de la cohérence des données"
 							},
 							{
 								"intitule" : "S’assurer des révisions du Cahier de Données de Projet"
@@ -105,7 +105,7 @@ exports.questions = [
 						],
 					"difficulte" : "Intermédiaire",
 					"id" : "{b562c10e-abf0-4a3d-9f4f-9bb0a9f291e3}",
-					"intituleDeLaQuestion" : "Le Donneur d'Ordre doit :",
+					"intituleDeLaQuestion" : "Le Donneur d’Ordre doit :",
 					"mauvaisesReponses" :
 						[
 							{
@@ -336,7 +336,7 @@ exports.questions = [
 				{
 					"bonnesReponses" : [
 						{
-							"intitule" : "La référence du Dossier de Référence existant avec l'indice, pour les matériels qualifiés"
+							"intitule" : "La référence du Dossier de Référence existant avec l’indice, pour les matériels qualifiés"
 						}
 					],
 					"difficulte" : "Débutant",
@@ -378,10 +378,10 @@ exports.questions = [
 				{
 					"bonnesReponses" : [
 						{
-							"intitule" : "La raison sociale et l'adresse du Titulaire"
+							"intitule" : "La raison sociale et l’adresse du Titulaire"
 						},
 						{
-							"intitule" : "L'identification du matériel considéré"
+							"intitule" : "L’identification du matériel considéré"
 						},
 						{
 							"intitule" : "La référence des prescriptions techniques contractuelles"
@@ -433,7 +433,7 @@ exports.questions = [
 					],
 					"difficulte" : "Intermédiaire",
 					"id" : "{8e3b1af8-88b5-44e8-acef-23a0cf4d8a33}",
-					"intituleDeLaQuestion" : "Pour les éléments qualifiés K1 ou K2, l'identification de la fourniture des éléments constitutifs porte sur les lots de fabrication ?",
+					"intituleDeLaQuestion" : "Pour les éléments qualifiés K1 ou K2, l’identification de la fourniture des éléments constitutifs porte sur les lots de fabrication ?",
 					"mauvaisesReponses" : [
 						{
 							"intitule" : "Vrai"
@@ -597,7 +597,7 @@ exports.questions = [
 					],
 					"difficulte" : "Intermédiaire",
 					"id" : "{449f6929-ba9f-4273-8d3b-944620f3fece}",
-					"intituleDeLaQuestion" : "Si un inspecteur dont le Titulaire s'est assuré qu'il a été dûment informé, avec le préavis contractuel, ne se présente pas, le Titulaire peut passer outre au point d'arrêt, 48 heures après notification par écrit de la convocation.",
+					"intituleDeLaQuestion" : "Si un inspecteur dont le Titulaire s’est assuré qu’il a été dûment informé, avec le préavis contractuel, ne se présente pas, le Titulaire peut passer outre au point d’arrêt, 48 heures après notification par écrit de la convocation.",
 					"mauvaisesReponses" : [
 						{
 							"intitule" : "Faux"
@@ -659,7 +659,7 @@ exports.questions = [
 				},
 			],
 		},
-		"Procès verbal d'essais" : {
+		"Procès verbal d’essais" : {
 			"Débutant" : [
 				{
 					"bonnesReponses" : [
@@ -682,7 +682,7 @@ exports.questions = [
 						}
 					],
 					"numeroQuestion" : 29,
-					"theme" : "Procès-Verbal d'essais",
+					"theme" : "Procès-Verbal d’essais",
 					"scoreMax" : 2
 				},
 				{
@@ -706,7 +706,7 @@ exports.questions = [
 						}
 					],
 					"numeroQuestion" : 30,
-					"theme" : "Procès-Verbal d'essais",
+					"theme" : "Procès-Verbal d’essais",
 					"scoreMax" : 2
 				},
 				{
@@ -724,7 +724,7 @@ exports.questions = [
 						}
 					],
 					"numeroQuestion" : 31,
-					"theme" : "Procès-Verbal d'essais",
+					"theme" : "Procès-Verbal d’essais",
 					"scoreMax" : 1
 				},
 			],
@@ -735,7 +735,7 @@ exports.questions = [
 							"intitule" : "L’identification du produit contrôlé (désignation, référence, lot, numéro de série)"
 						},
 						{
-							"intitule" : "La date de réalisation du contrôle ou de l'essai"
+							"intitule" : "La date de réalisation du contrôle ou de l’essai"
 						}
 					],
 					"difficulte" : "Intermédiaire",
@@ -750,7 +750,7 @@ exports.questions = [
 						}
 					],
 					"numeroQuestion" : 32,
-					"theme" : "Procès-Verbal d'essais",
+					"theme" : "Procès-Verbal d’essais",
 					"scoreMax" : 3
 				},
 				{
@@ -768,7 +768,7 @@ exports.questions = [
 						}
 					],
 					"numeroQuestion" : 33,
-					"theme" : "Procès-Verbal d'essais",
+					"theme" : "Procès-Verbal d’essais",
 					"scoreMax" : 1
 				},
 			],
@@ -794,7 +794,7 @@ exports.questions = [
 						}
 					],
 					"numeroQuestion" : 34,
-					"theme" : "Procès-Verbal d'essais",
+					"theme" : "Procès-Verbal d’essais",
 					"scoreMax" : 4
 				},
 				{
@@ -818,7 +818,7 @@ exports.questions = [
 						}
 					],
 					"numeroQuestion" : 35,
-					"theme" : "Procès-Verbal d'essais",
+					"theme" : "Procès-Verbal d’essais",
 					"scoreMax" : 4
 				},
 			],
@@ -987,7 +987,7 @@ exports.questions = [
 				},
 			],
 		},
-		"Spécification d'approvisionnement" : {
+		"Spécification d’approvisionnement" : {
 			"Débutant" : [
 				{
 					"bonnesReponses" : [
@@ -1010,7 +1010,7 @@ exports.questions = [
 						}
 					],
 					"numeroQuestion" : 43,
-					"theme" : "Spécification d'approvisionnement",
+					"theme" : "Spécification d’approvisionnement",
 					"scoreMax" : 2
 				},
 				{
@@ -1034,7 +1034,7 @@ exports.questions = [
 						}
 					],
 					"numeroQuestion" : 44,
-					"theme" : "Spécification d'approvisionnement",
+					"theme" : "Spécification d’approvisionnement",
 					"scoreMax" : 2
 				},
 				{
@@ -1052,7 +1052,7 @@ exports.questions = [
 						}
 					],
 					"numeroQuestion" : 45,
-					"theme" : "Spécification d'approvisionnement",
+					"theme" : "Spécification d’approvisionnement",
 					"scoreMax" : 1
 				},
 			],
@@ -1078,7 +1078,7 @@ exports.questions = [
 						}
 					],
 					"numeroQuestion" : 46,
-					"theme" : "Spécification d'approvisionnement",
+					"theme" : "Spécification d’approvisionnement",
 					"scoreMax" : 3
 				},
 				{
@@ -1096,7 +1096,7 @@ exports.questions = [
 						}
 					],
 					"numeroQuestion" : 47,
-					"theme" : "Spécification d'approvisionnement",
+					"theme" : "Spécification d’approvisionnement",
 					"scoreMax" : 1
 				},
 			],
@@ -1122,7 +1122,7 @@ exports.questions = [
 						}
 					],
 					"numeroQuestion" : 48,
-					"theme" : "Spécification d'approvisionnement",
+					"theme" : "Spécification d’approvisionnement",
 					"scoreMax" : 4
 				},
 				{
@@ -1146,7 +1146,7 @@ exports.questions = [
 						}
 					],
 					"numeroQuestion" : 49,
-					"theme" : "Spécification d'approvisionnement",
+					"theme" : "Spécification d’approvisionnement",
 					"scoreMax" : 4
 				},
 			],
@@ -1159,7 +1159,7 @@ exports.questions = [
 							"intitule" : "Les dispositifs et composants incorporés sont en conformité avec les exigences de CEM"
 						},
 						{
-							"intitule" : "L'installation interne et le câblage doivent être effectués en conformité avec les instructions des constructeurs"
+							"intitule" : "L’installation interne et le câblage doivent être effectués en conformité avec les instructions des constructeurs"
 						}
 					],
 					"difficulte" : "Débutant",
@@ -1167,7 +1167,7 @@ exports.questions = [
 					"intituleDeLaQuestion" : "Quelles sont les conditions à remplir pour les composants sensibles et/ou perturbateurs aux interférences électromagnétiques :",
 					"mauvaisesReponses" : [
 						{
-							"intitule" : "Aucun essai d'immunité ou d'émission électromagnétiques n'est exigé"
+							"intitule" : "Aucun essai d’immunité ou d’émission électromagnétiques n’est exigé"
 						},
 						{
 							"intitule" : "Les composants perturbateurs ne sont pas autorisés "
@@ -1185,7 +1185,7 @@ exports.questions = [
 					],
 					"difficulte" : "Débutant",
 					"id" : "{9b9b0c85-3ea5-4fe4-b8f6-3f6e5dc71a63}",
-					"intituleDeLaQuestion" : "Les composants sensibles et/ou perturbateurs doivent être identifiés dans chaque ensemble. Une analyse d'immunité et d'émissivité doit être réalisée.",
+					"intituleDeLaQuestion" : "Les composants sensibles et/ou perturbateurs doivent être identifiés dans chaque ensemble. Une analyse d’immunité et d’émissivité doit être réalisée.",
 					"mauvaisesReponses" : [
 						{
 							"intitule" : "Faux"
@@ -1224,10 +1224,10 @@ exports.questions = [
 				{
 					"bonnesReponses" : [
 						{
-							"intitule" : "Aucun essai d'immunité ou d'émission électromagnétiques n'est exigé"
+							"intitule" : "Aucun essai d’immunité ou d’émission électromagnétiques n’est exigé"
 						},
 						{
-							"intitule" : "L'installation interne et le câblage doivent être effectués en conformité avec les instructions des constructeurs"
+							"intitule" : "L’installation interne et le câblage doivent être effectués en conformité avec les instructions des constructeurs"
 						}
 					],
 					"difficulte" : "Intermédiaire",
@@ -1253,7 +1253,7 @@ exports.questions = [
 					],
 					"difficulte" : "Intermédiaire",
 					"id" : "{8087224b-0416-4adc-8ab1-9248fbb57b8b}",
-					"intituleDeLaQuestion" : "Pour les équipements et composants non sensibles, des essais d'immunité ou d'émission électromagnétiques seront exigés.",
+					"intituleDeLaQuestion" : "Pour les équipements et composants non sensibles, des essais d’immunité ou d’émission électromagnétiques seront exigés.",
 					"mauvaisesReponses" : [
 						{
 							"intitule" : "Vrai"
@@ -1273,7 +1273,7 @@ exports.questions = [
 					],
 					"difficulte" : "Expert",
 					"id" : "{260ef184-8eac-4304-b8bf-dd2b3d26c45b}",
-					"intituleDeLaQuestion" : "Suivant quelle norme, l'installation interne et le câblage doivent être effectués ?",
+					"intituleDeLaQuestion" : "Suivant quelle norme, l’installation interne et le câblage doivent être effectués ?",
 					"mauvaisesReponses" : [
 						{
 							"intitule" : "Norme IEC 61000-5-1"
@@ -1620,7 +1620,7 @@ exports.questions = [
 				{
 					"bonnesReponses" : [
 						{
-							"intitule" : "NF T30-900 - Essais de tenue à l'accident de référence"
+							"intitule" : "NF T30-900 - Essais de tenue à l’accident de référence"
 						},
 						{
 							"intitule" : "NF T30-901 - Essais de décontamination"
@@ -1865,7 +1865,7 @@ exports.questions = [
 					],
 					"difficulte" : "Débutant",
 					"id" : "{7369eb68-b2d6-405f-9de4-21150cced0fe}",
-					"intituleDeLaQuestion" : "Tout procédé de sertissage doit faire l'objet d'une qualification avant le début de la Production.",
+					"intituleDeLaQuestion" : "Tout procédé de sertissage doit faire l’objet d’une qualification avant le début de la Production.",
 					"mauvaisesReponses" : [
 						{
 							"intitule" : "Faux"
@@ -1912,7 +1912,7 @@ exports.questions = [
 					"intituleDeLaQuestion" : "Si le modèle de fût à sertir est employé pour une gamme de section de conducteurs, quelles caractéristiques doivent définir le procédé de sertissage ?",
 					"mauvaisesReponses" : [
 						{
-							"intitule" : "Le frettage d'isolant"
+							"intitule" : "Le frettage d’isolant"
 						}
 					],
 					"numeroQuestion" : 82,
@@ -2237,7 +2237,7 @@ exports.questions = [
 					],
 					"difficulte" : "Intermédiaire",
 					"id" : "{58ab82ba-d02c-46f3-b52b-466c6ec72885}",
-					"intituleDeLaQuestion" : "Pour les accessoires de câblage (gaines de protections, embouts de chemins de câbles, manchons de prolongation, gaines thermo-rétractables, parties en téflon), il est obligatoire qu'ils soient non propagateur de la flamme.",
+					"intituleDeLaQuestion" : "Pour les accessoires de câblage (gaines de protections, embouts de chemins de câbles, manchons de prolongation, gaines thermo-rétractables, parties en téflon), il est obligatoire qu’ils soient non propagateur de la flamme.",
 					"mauvaisesReponses" : [
 						{
 							"intitule" : "Vrai"
@@ -2257,7 +2257,7 @@ exports.questions = [
 					],
 					"difficulte" : "Expert",
 					"id" : "{f9bb0ed7-85b9-43c4-ade7-1a22587de03b}",
-					"intituleDeLaQuestion" : "A quelle catégorie minimum de l'IEC 60695-11-10 des essais d'inflammabilité doivent répondre les matériaux organiques utilisés dans les éléments tels que borniers de raccordement, goulottes, enveloppes ?",
+					"intituleDeLaQuestion" : "A quelle catégorie minimum de l’IEC 60695-11-10 des essais d’inflammabilité doivent répondre les matériaux organiques utilisés dans les éléments tels que borniers de raccordement, goulottes, enveloppes ?",
 					"mauvaisesReponses" : [
 						{
 							"intitule" : "V0"
@@ -2266,7 +2266,7 @@ exports.questions = [
 							"intitule" : "V1"
 						},
 						{
-							"intitule" : "L'IEC 60695-11-10 ne s’applique pas"
+							"intitule" : "L’IEC 60695-11-10 ne s’applique pas"
 						}
 					],
 					"numeroQuestion" : 97,
@@ -2284,7 +2284,7 @@ exports.questions = [
 					],
 					"difficulte" : "Expert",
 					"id" : "{897077d9-020a-4211-9aa5-75ee6bd99c67}",
-					"intituleDeLaQuestion" : "Les matériaux de base pour les circuits imprimés doivent répondre aux essais d'inflammabilité définis dans :",
+					"intituleDeLaQuestion" : "Les matériaux de base pour les circuits imprimés doivent répondre aux essais d’inflammabilité définis dans :",
 					"mauvaisesReponses" : [
 						{
 							"intitule" : "La norme IEC 62189-2"
@@ -2304,7 +2304,7 @@ exports.questions = [
 				{
 					"bonnesReponses" : [
 						{
-							"intitule" : "Le comportement de l'isolant du conducteur"
+							"intitule" : "Le comportement de l’isolant du conducteur"
 						}
 					],
 					"difficulte" : "Débutant",
@@ -2703,7 +2703,7 @@ exports.questions = [
 					],
 					"difficulte" : "Intermédiaire",
 					"id" : "{31e86e18-23d0-4c0c-ba5c-d8118b3b2f5f}",
-					"intituleDeLaQuestion" : "Le convertisseur, s'il n'est pas intégré au boîtier unique, peut être séparé mais technologiquement lié au capteur ou séparé et indépendant (armoire de traitement).",
+					"intituleDeLaQuestion" : "Le convertisseur, s’il n’est pas intégré au boîtier unique, peut être séparé mais technologiquement lié au capteur ou séparé et indépendant (armoire de traitement).",
 					"mauvaisesReponses" : [
 						{
 							"intitule" : "Faux"
@@ -2794,7 +2794,7 @@ exports.questions = [
 				{
 					"bonnesReponses" : [
 						{
-							"intitule" : "Le Dossier d'Identification"
+							"intitule" : "Le Dossier d’Identification"
 						}
 					],
 					"difficulte" : "Débutant",
@@ -2823,7 +2823,7 @@ exports.questions = [
 					],
 					"difficulte" : "Débutant",
 					"id" : "{4e7d83b0-d7ca-498e-ba89-7e7fcda841b7}",
-					"intituleDeLaQuestion" : "Il est exigé d'utiliser des interfaces standardisées afin de faciliter le remplacement de sous-ensembles en cas d'obsolescence.",
+					"intituleDeLaQuestion" : "Il est exigé d’utiliser des interfaces standardisées afin de faciliter le remplacement de sous-ensembles en cas d’obsolescence.",
 					"mauvaisesReponses" : [
 						{
 							"intitule" : "Vrai"
@@ -2844,7 +2844,7 @@ exports.questions = [
 					],
 					"difficulte" : "Débutant",
 					"id" : "{66b74cc0-5210-49c3-bf97-0b87a0bda380}",
-					"intituleDeLaQuestion" : "L'installation du matériel doit être conçue de manière à limiter :",
+					"intituleDeLaQuestion" : "L’installation du matériel doit être conçue de manière à limiter :",
 					"mauvaisesReponses" : [
 						{
 							"intitule" : "Le risque d’inflammabilité"
@@ -2867,7 +2867,7 @@ exports.questions = [
 					],
 					"difficulte" : "Intermédiaire",
 					"id" : "{1902849e-edfc-493f-990b-a3dceaa82fc4}",
-					"intituleDeLaQuestion" : "Les caractéristiques géométriques des éléments constitutifs concernés, ou du matériel complet lorsque le remplacement de celui-ci est prévu, doivent être telles qu'elles réduisent le nombre d'opérations nécessaires uniquement lors du démontage.",
+					"intituleDeLaQuestion" : "Les caractéristiques géométriques des éléments constitutifs concernés, ou du matériel complet lorsque le remplacement de celui-ci est prévu, doivent être telles qu’elles réduisent le nombre d’opérations nécessaires uniquement lors du démontage.",
 					"mauvaisesReponses" : [
 						{
 							"intitule" : "Vrai"
@@ -2888,7 +2888,7 @@ exports.questions = [
 					],
 					"difficulte" : "Intermédiaire",
 					"id" : "{e04ba4a9-e7fc-444d-8033-db58a329cbca}",
-					"intituleDeLaQuestion" : "Les modifications apportées aux matériels ou éléments constitutifs de rechange susceptibles de mettre en cause l'interchangeabilité sont :",
+					"intituleDeLaQuestion" : "Les modifications apportées aux matériels ou éléments constitutifs de rechange susceptibles de mettre en cause l’interchangeabilité sont :",
 					"mauvaisesReponses" : [
 						{
 							"intitule" : "Des modifications mineures"
@@ -2904,10 +2904,14 @@ exports.questions = [
 			],
 			"Expert" : [
 				{
-					"bonnesReponses" : [],
+					"bonnesReponses" : [
+						{
+							"intitule" : "Contrôlés par le fabricant"
+						}
+					],
 					"difficulte" : "Expert",
 					"id" : "{8efad54e-c917-48f1-bd23-e2f9bcbba45a}",
-					"intituleDeLaQuestion" : "Afin de vérifier que les exigences d'interchangeabilité sont satisfaites, tous les matériels ou éléments constitutifs de rechange doivent être :",
+					"intituleDeLaQuestion" : "Afin de vérifier que les exigences d’interchangeabilité sont satisfaites, tous les matériels ou éléments constitutifs de rechange doivent être :",
 					"mauvaisesReponses" : [
 						{
 							"intitule" : "Contrôlés par le Donneur d’Ordre"
@@ -2917,9 +2921,6 @@ exports.questions = [
 						},
 						{
 							"intitule" : "Qualifiés par le fabricant"
-						},
-						{
-							"intitule" : "Contrôlés par le fabricant"
 						}
 					],
 					"numeroQuestion" : 125,
@@ -3053,7 +3054,7 @@ exports.questions = [
 					],
 					"difficulte" : "Intermédiaire",
 					"id" : "{e7038c5e-580e-4af7-a364-c5c1f3dbc3b6}",
-					"intituleDeLaQuestion" : "Des dispositions doivent être prises pour que les armoires d'un même type soient câblées de façon identique.",
+					"intituleDeLaQuestion" : "Des dispositions doivent être prises pour que les armoires d’un même type soient câblées de façon identique.",
 					"mauvaisesReponses" : [
 						{
 							"intitule" : "Faux"
@@ -3100,7 +3101,7 @@ exports.questions = [
 					],
 					"difficulte" : "Expert",
 					"id" : "{aa844bb9-e738-4eb8-8a22-cfff51912eb2}",
-					"intituleDeLaQuestion" : "Les contrôles comprennent notamment la vérification de la conformité du câblage au plan ou au cahier de câblage. Si les contrôles sont réalisés par échantillonnage, le fabricant de l'armoire câblée doit alors définir les règles d'échantillonnage conformément à :",
+					"intituleDeLaQuestion" : "Les contrôles comprennent notamment la vérification de la conformité du câblage au plan ou au cahier de câblage. Si les contrôles sont réalisés par échantillonnage, le fabricant de l’armoire câblée doit alors définir les règles d’échantillonnage conformément à :",
 					"mauvaisesReponses" : [
 						{
 							"intitule" : "L’Arrêté du 07/02/2012"
@@ -3128,7 +3129,7 @@ exports.questions = [
 					],
 					"difficulte" : "Débutant",
 					"id" : "{feea269c-110f-45b5-8c7b-0dfd36530eb2}",
-					"intituleDeLaQuestion" : "Que faut-il prendre en compte lors du remplacement ou la réparation d'un matériel défaillant ?",
+					"intituleDeLaQuestion" : "Que faut-il prendre en compte lors du remplacement ou la réparation d’un matériel défaillant ?",
 					"mauvaisesReponses" : [
 						{
 							"intitule" : "Faire des essais sur place pour comprendre la défaillance"
@@ -3173,7 +3174,7 @@ exports.questions = [
 					],
 					"difficulte" : "Débutant",
 					"id" : "{d1537606-fcb6-44df-858d-1a08e39e4d79}",
-					"intituleDeLaQuestion" : "L'outillage nécessaire pour effectuer les opérations de maintenance, y compris les moyens de test de logiciel, doit être le plus réduit possible.",
+					"intituleDeLaQuestion" : "L’outillage nécessaire pour effectuer les opérations de maintenance, y compris les moyens de test de logiciel, doit être le plus réduit possible.",
 					"mauvaisesReponses" : [
 						{
 							"intitule" : "Faux"
@@ -3191,7 +3192,7 @@ exports.questions = [
 							"intitule" : "Pour faciliter le remplacement ou la réparation"
 						},
 						{
-							"intitule" : "Pour réduire le risque d'introduction de panne durant les activités de maintenance"
+							"intitule" : "Pour réduire le risque d’introduction de panne durant les activités de maintenance"
 						}
 					],
 					"difficulte" : "Intermédiaire",
@@ -3217,7 +3218,7 @@ exports.questions = [
 					],
 					"difficulte" : "Débutant",
 					"id" : "{de2bfc6c-8129-4093-b371-9cd6e475cdde}",
-					"intituleDeLaQuestion" : "La procédure de maintenance doit prévoir les vérifications et réglages à faire sur le matériel, uniquement après son installation à son emplacement normal d'exploitation.",
+					"intituleDeLaQuestion" : "La procédure de maintenance doit prévoir les vérifications et réglages à faire sur le matériel, uniquement après son installation à son emplacement normal d’exploitation.",
 					"mauvaisesReponses" : [
 						{
 							"intitule" : "Vrai"
@@ -3232,7 +3233,7 @@ exports.questions = [
 				{
 					"bonnesReponses" : [
 						{
-							"intitule" : "Des moyens d'essai permettant la localisation des défaillances détectées"
+							"intitule" : "Des moyens d’essai permettant la localisation des défaillances détectées"
 						},
 						{
 							"intitule" : "Des moyens facilitant la reconnexion des parties mécaniques et électriques en vue de minimiser les oublis ou les erreurs"
@@ -3254,22 +3255,23 @@ exports.questions = [
 					"scoreMax" : 4
 				},
 				{
-					"bonnesReponses" : [],
-					"difficulte" : "Expert",
-					"id" : "{7769024f-b45d-47c9-8b5c-6d14221dd3c9}",
-					"intituleDeLaQuestion" : "Dans la mesure du possible, il est recommandé que la conception intègre des dispositions pour réduire le risque d'introduction de panne durant les activités de maintenance tels que :",
-					"mauvaisesReponses" : [
+					"bonnesReponses" : [
 						{
-							"intitule" : "Des composants susceptibles d'être remplacés suite à une défaillance facilement accessible"
+							"intitule" : "Des composants susceptibles d’être remplacés suite à une défaillance facilement accessible"
 						},
 						{
 							"intitule" : "Des composants remplaçables clairement identifiés pour que le personnel de maintenance puisse facilement vérifier que les composants utilisés sont les bons"
 						},
 						{
-							"intitule" : "Des composants pouvant être remplacés sans intervenir sur le câblage procédé"
-						},
+							"intitule" : "Une conception matérielle adoptant un modèle structuré avec un étiquetage clair sur des parties inamovibles pour réduire le risque d’erreurs de maintenance."
+						}
+					],
+					"difficulte" : "Expert",
+					"id" : "{7769024f-b45d-47c9-8b5c-6d14221dd3c9}",
+					"intituleDeLaQuestion" : "Dans la mesure du possible, il est recommandé que la conception intègre des dispositions pour réduire le risque d’introduction de panne durant les activités de maintenance tels que :",
+					"mauvaisesReponses" : [
 						{
-							"intitule" : "Une conception matérielle adoptant un modèle structuré avec un étiquetage clair sur des parties inamovibles pour réduire le risque d'erreurs de maintenance."
+							"intitule" : "Des composants pouvant être remplacés sans intervenir sur le câblage procédé"
 						}
 					],
 					"numeroQuestion" : 140,
@@ -3634,7 +3636,7 @@ exports.questions = [
 					],
 					"difficulte" : "Débutant",
 					"id" : "{efcf511f-bca1-49c5-8cc7-6a794e54446e}",
-					"intituleDeLaQuestion" : "La durée de vie prise pour hypothèse dans le processus initial de qualification peut évoluer à la hausse ou à la baisse en fonction des conditions réelles de fonctionnement et/ou d'installation. Dans quel cas, peut-elle devenir supérieure à la durée d’exploitation prévue pour le matériel ?",
+					"intituleDeLaQuestion" : "La durée de vie prise pour hypothèse dans le processus initial de qualification peut évoluer à la hausse ou à la baisse en fonction des conditions réelles de fonctionnement et/ou d’installation. Dans quel cas, peut-elle devenir supérieure à la durée d’exploitation prévue pour le matériel ?",
 					"mauvaisesReponses" : [
 						{
 							"intitule" : "Du fait d’une réévaluation de l’ASN"
@@ -3656,12 +3658,12 @@ exports.questions = [
 							"intitule" : "Soit parce que cette hypothèse de durée de vie du matériel est revue à la baisse"
 						},
 						{
-							"intitule" : "Soit parce qu'avec le temps, il devient nécessaire de prolonger la durée d'exploitation du matériel"
+							"intitule" : "Soit parce qu’avec le temps, il devient nécessaire de prolonger la durée d’exploitation du matériel"
 						}
 					],
 					"difficulte" : "Débutant",
 					"id" : "{acf8c18f-634d-494f-a02f-08fe9aad4cba}",
-					"intituleDeLaQuestion" : "La durée de vie prise pour hypothèse dans le processus initial de qualification peut évoluer à la hausse ou à la baisse en fonction des conditions réelles de fonctionnement et/ou d'installation. Dans quel cas, peut-elle devenir inférieure à la durée d’exploitation prévue pour le matériel ?",
+					"intituleDeLaQuestion" : "La durée de vie prise pour hypothèse dans le processus initial de qualification peut évoluer à la hausse ou à la baisse en fonction des conditions réelles de fonctionnement et/ou d’installation. Dans quel cas, peut-elle devenir inférieure à la durée d’exploitation prévue pour le matériel ?",
 					"mauvaisesReponses" : [
 						{
 							"intitule" : "Soit par décision de l’ASN"
@@ -3684,7 +3686,7 @@ exports.questions = [
 					],
 					"difficulte" : "Intermédiaire",
 					"id" : "{3619424f-cb31-4212-ba08-58b9af6e4238}",
-					"intituleDeLaQuestion" : "Dans le cas où la durée de vie peut devenir inférieure à la durée d’exploitation prévue pour le matériel, un programme d'extension de qualification doit être appliqué avant que la durée d'exploitation du matériel ne devienne supérieure à l'hypothèse de durée de vie prise en compte dans la qualification",
+					"intituleDeLaQuestion" : "Dans le cas où la durée de vie peut devenir inférieure à la durée d’exploitation prévue pour le matériel, un programme d’extension de qualification doit être appliqué avant que la durée d’exploitation du matériel ne devienne supérieure à l’hypothèse de durée de vie prise en compte dans la qualification",
 					"mauvaisesReponses" : [
 						{
 							"intitule" : "Faux"
@@ -3697,7 +3699,7 @@ exports.questions = [
 				{
 					"bonnesReponses" : [
 						{
-							"intitule" : "Si l’environnement en exploitation est plus contraignant que celui pris en compte lors de l'établissement de la qualification"
+							"intitule" : "Si l’environnement en exploitation est plus contraignant que celui pris en compte lors de l’établissement de la qualification"
 						},
 						{
 							"intitule" : "Si le REX fait apparaitre de nouveaux mécanismes de vieillissement"
@@ -3770,7 +3772,7 @@ exports.questions = [
 				},
 			],
 		},
-		"KLIF matériel - Données d'entrée" : {
+		"KLIF matériel - Données d’entrée" : {
 			"Débutant" : [
 				{
 					"bonnesReponses" : [
@@ -3787,7 +3789,7 @@ exports.questions = [
 						}
 					],
 					"numeroQuestion" : 162,
-					"theme" : "KLIF matériel - Données d'entrée",
+					"theme" : "KLIF matériel - Données d’entrée",
 					"scoreMax" : 1
 				},
 				{
@@ -3811,7 +3813,7 @@ exports.questions = [
 						}
 					],
 					"numeroQuestion" : 163,
-					"theme" : "KLIF matériel - Données d'entrée",
+					"theme" : "KLIF matériel - Données d’entrée",
 					"scoreMax" : 2
 				},
 				{
@@ -3835,7 +3837,7 @@ exports.questions = [
 						}
 					],
 					"numeroQuestion" : 164,
-					"theme" : "KLIF matériel - Données d'entrée",
+					"theme" : "KLIF matériel - Données d’entrée",
 					"scoreMax" : 2
 				},
 			],
@@ -3855,7 +3857,7 @@ exports.questions = [
 						}
 					],
 					"numeroQuestion" : 165,
-					"theme" : "KLIF matériel - Données d'entrée",
+					"theme" : "KLIF matériel - Données d’entrée",
 					"scoreMax" : 1
 				},
 				{
@@ -3879,7 +3881,7 @@ exports.questions = [
 						}
 					],
 					"numeroQuestion" : 166,
-					"theme" : "KLIF matériel - Données d'entrée",
+					"theme" : "KLIF matériel - Données d’entrée",
 					"scoreMax" : 3
 				},
 			],
@@ -3905,7 +3907,7 @@ exports.questions = [
 						}
 					],
 					"numeroQuestion" : 167,
-					"theme" : "KLIF matériel - Données d'entrée",
+					"theme" : "KLIF matériel - Données d’entrée",
 					"scoreMax" : 4
 				},
 				{
@@ -3929,7 +3931,7 @@ exports.questions = [
 						}
 					],
 					"numeroQuestion" : 168,
-					"theme" : "KLIF matériel - Données d'entrée",
+					"theme" : "KLIF matériel - Données d’entrée",
 					"scoreMax" : 4
 				},
 			],
@@ -4078,7 +4080,7 @@ exports.questions = [
 							"intitule" : "Les prescriptions issues du processus de qualification"
 						},
 						{
-							"intitule" : "L'identification des interfaces couvertes par la qualification"
+							"intitule" : "L’identification des interfaces couvertes par la qualification"
 						}
 					],
 					"difficulte" : "Expert",
@@ -4089,7 +4091,7 @@ exports.questions = [
 							"intitule" : "La méthode de qualification adoptée"
 						},
 						{
-							"intitule" : "La séquence d'essais avec ses modalités et sévérités essentielles"
+							"intitule" : "La séquence d’essais avec ses modalités et sévérités essentielles"
 						}
 					],
 					"numeroQuestion" : 175,
@@ -4317,7 +4319,7 @@ exports.questions = [
 					],
 					"difficulte" : "Débutant",
 					"id" : "{080eb8b0-b555-4148-94a2-85ff21c0c019}",
-					"intituleDeLaQuestion" : "Quels sont les essais réalisés pour les essais d'appréciation du comportement du matériel dans le temps ?",
+					"intituleDeLaQuestion" : "Quels sont les essais réalisés pour les essais d’appréciation du comportement du matériel dans le temps ?",
 					"mauvaisesReponses" : [
 						{
 							"intitule" : "Essais des caractéristiques électriques"
@@ -4364,7 +4366,7 @@ exports.questions = [
 					],
 					"difficulte" : "Intermédiaire",
 					"id" : "{3678c4c0-3a0d-457c-b33b-4639356c7d70}",
-					"intituleDeLaQuestion" : "Si le programme prévoit un essai de fonctionnement prolongé, la température ambiante de cet essai doit être égale à la limite supérieure du domaine nominal de cette grandeur d'influence, sauf indication contraire du programme particulier de qualification.",
+					"intituleDeLaQuestion" : "Si le programme prévoit un essai de fonctionnement prolongé, la température ambiante de cet essai doit être égale à la limite supérieure du domaine nominal de cette grandeur d’influence, sauf indication contraire du programme particulier de qualification.",
 					"mauvaisesReponses" : [
 						{
 							"intitule" : "Faux"
@@ -4567,7 +4569,7 @@ exports.questions = [
 				{
 					"bonnesReponses" : [
 						{
-							"intitule" : "Essais aux limites d'emploi fonctionnelles du matériel"
+							"intitule" : "Essais aux limites d’emploi fonctionnelles du matériel"
 						}
 					],
 					"difficulte" : "Expert",
@@ -4692,7 +4694,7 @@ exports.questions = [
 					],
 					"difficulte" : "Intermédiaire",
 					"id" : "{e98e1933-9dfb-4ad4-b3d8-04a5be75d3d2}",
-					"intituleDeLaQuestion" : "Il est recommandé que l'irradiation ne débute qu'après obtention de l'équilibre thermique.",
+					"intituleDeLaQuestion" : "Il est recommandé que l’irradiation ne débute qu’après obtention de l’équilibre thermique.",
 					"mauvaisesReponses" : [
 						{
 							"intitule" : "Vrai"
@@ -4731,10 +4733,10 @@ exports.questions = [
 				{
 					"bonnesReponses" : [
 						{
-							"intitule" : "Renouvellement d'air dans le caisson au rythme minimal de 4 volumes par heure"
+							"intitule" : "Renouvellement d’air dans le caisson au rythme minimal de 4 volumes par heure"
 						},
 						{
-							"intitule" : "L'irradiation ne doit débuter qu'après obtention de l'équilibre thermique"
+							"intitule" : "L’irradiation ne doit débuter qu’après obtention de l’équilibre thermique"
 						}
 					],
 					"difficulte" : "Expert",
@@ -4965,7 +4967,7 @@ exports.questions = [
 				{
 					"bonnesReponses" : [
 						{
-							"intitule" : "La spécification d'équipement"
+							"intitule" : "La spécification d’équipement"
 						}
 					],
 					"difficulte" : "Débutant",
@@ -5137,7 +5139,7 @@ exports.questions = [
 					],
 					"difficulte" : "Débutant",
 					"id" : "{f6cdfc7a-6340-4c91-b5e3-abfc6524b6c2}",
-					"intituleDeLaQuestion" : "En cas de contractualisation, le Donneur d’Ordre doit demander au Titulaire de lui notifier toute obsolescence avec comme information la date limite de passation de commande, dont le délai d'annonce est de :",
+					"intituleDeLaQuestion" : "En cas de contractualisation, le Donneur d’Ordre doit demander au Titulaire de lui notifier toute obsolescence avec comme information la date limite de passation de commande, dont le délai d’annonce est de :",
 					"mauvaisesReponses" : [
 						{
 							"intitule" : "12 mois pour les composants multi-sources"
@@ -5155,7 +5157,7 @@ exports.questions = [
 				{
 					"bonnesReponses" : [
 						{
-							"intitule" : "Par l'intermédiaire d'un accord formel avec le fabricant ou le distributeur, prévoyant l'information préalable, avec un préavis spécifié, de tout arrêt de production d'un type de composant ou module couvert par cet accord"
+							"intitule" : "Par l’intermédiaire d’un accord formel avec le fabricant ou le distributeur, prévoyant l’information préalable, avec un préavis spécifié, de tout arrêt de production d’un type de composant ou module couvert par cet accord"
 						},
 						{
 							"intitule" : "Par une consultation périodique du fabricant"
@@ -5184,7 +5186,7 @@ exports.questions = [
 					],
 					"difficulte" : "Intermédiaire",
 					"id" : "{c97819f2-bd5d-4a9f-b2ef-2b6104ed82c4}",
-					"intituleDeLaQuestion" : "En cas de contractualisation, le Donneur d’Ordre doit demander au Titulaire de lui notifier toute obsolescence avec comme information le facteur déclenchant, la nature et la cause de l'obsolescence, notamment s'il s'agit de l'arrêt de fabrication réel ou de l'arrêt de commercialisation géographique local.",
+					"intituleDeLaQuestion" : "En cas de contractualisation, le Donneur d’Ordre doit demander au Titulaire de lui notifier toute obsolescence avec comme information le facteur déclenchant, la nature et la cause de l’obsolescence, notamment s’il s’agit de l’arrêt de fabrication réel ou de l’arrêt de commercialisation géographique local.",
 					"mauvaisesReponses" : [
 						{
 							"intitule" : "Faux"
@@ -5226,10 +5228,10 @@ exports.questions = [
 							"intitule" : "Les caractéristiques complètes du composant obsolète"
 						},
 						{
-							"intitule" : "La solution préconisée pour pallier l'obsolescence"
+							"intitule" : "La solution préconisée pour pallier l’obsolescence"
 						},
 						{
-							"intitule" : "La date d'annonce publique de l'obsolescence et la date d'arrêt de fabrication"
+							"intitule" : "La date d’annonce publique de l’obsolescence et la date d’arrêt de fabrication"
 						},
 						{
 							"intitule" : "Les quantités minimales à commander"
@@ -5581,11 +5583,7 @@ exports.questions = [
 		"Système programmé" : {
 			"Débutant" : [
 				{
-					"bonnesReponses" : [],
-					"difficulte" : "Débutant",
-					"id" : "{c3880911-d3d9-409b-9d84-c738f8a6d663}",
-					"intituleDeLaQuestion" : "Concernant les contraintes portant sur la conception, il est recommandé de prendre en compte la pérennité dès la phase de conception par recours à une ou plusieurs les dispositions suivantes :",
-					"mauvaisesReponses" : [
+					"bonnesReponses" : [
 						{
 							"intitule" : "Le choix de fabricants majeurs"
 						},
@@ -5594,7 +5592,12 @@ exports.questions = [
 						},
 						{
 							"intitule" : "L’évitement de l’utilisation de protocoles propriétaires"
-						},
+						}
+					],
+					"difficulte" : "Débutant",
+					"id" : "{c3880911-d3d9-409b-9d84-c738f8a6d663}",
+					"intituleDeLaQuestion" : "Concernant les contraintes portant sur la conception, il est recommandé de prendre en compte la pérennité dès la phase de conception par recours à une ou plusieurs les dispositions suivantes :",
+					"mauvaisesReponses" : [
 						{
 							"intitule" : "L’utilisation des technologies de petites séries"
 						}
@@ -5909,7 +5912,7 @@ exports.questions = [
 				{
 					"bonnesReponses" : [
 						{
-							"intitule" : "L'autocontrôle"
+							"intitule" : "L’autocontrôle"
 						},
 						{
 							"intitule" : "La justification de chaque opération sensible"
@@ -5917,7 +5920,7 @@ exports.questions = [
 					],
 					"difficulte" : "Débutant",
 					"id" : "{32fd5743-b9b3-48ad-97ea-a88028246b3a}",
-					"intituleDeLaQuestion" : "Les informations suivantes peuvent figurer dans la liste d'opérations sensibles :",
+					"intituleDeLaQuestion" : "Les informations suivantes peuvent figurer dans la liste d’opérations sensibles :",
 					"mauvaisesReponses" : [
 						{
 							"intitule" : "La justification de chaque contrôle"
@@ -5956,7 +5959,7 @@ exports.questions = [
 					],
 					"difficulte" : "Débutant",
 					"id" : "{e97b0f08-6298-41d9-9b52-9c007dd4e0e0}",
-					"intituleDeLaQuestion" : "L'intervenant qui réalise et l'intervenant qui contrôle doivent être :",
+					"intituleDeLaQuestion" : "L’intervenant qui réalise et l’intervenant qui contrôle doivent être :",
 					"mauvaisesReponses" : [
 						{
 							"intitule" : "Indépendants"
@@ -6045,13 +6048,13 @@ exports.questions = [
 				{
 					"bonnesReponses" : [
 						{
-							"intitule" : "La description détaillée des contrôles adaptés réalisés sur l'opération sensible"
+							"intitule" : "La description détaillée des contrôles adaptés réalisés sur l’opération sensible"
 						},
 						{
 							"intitule" : "La périodicité retenue pour le contrôle"
 						},
 						{
-							"intitule" : "Les enregistrements attestant de la réalisation et du contrôle de l'activité"
+							"intitule" : "Les enregistrements attestant de la réalisation et du contrôle de l’activité"
 						}
 					],
 					"difficulte" : "Expert",
@@ -6059,7 +6062,7 @@ exports.questions = [
 					"intituleDeLaQuestion" : "Pour chaque opération sensible d’approvisionnement ou opération de fabrication identifiée, le Titulaire doit indiquer a minima :",
 					"mauvaisesReponses" : [
 						{
-							"intitule" : "Les dispositions prises pour évaluer l'efficacité de sa maîtrise des opérations sensibles"
+							"intitule" : "Les dispositions prises pour évaluer l’efficacité de sa maîtrise des opérations sensibles"
 						}
 					],
 					"numeroQuestion" : 259,
@@ -6979,7 +6982,7 @@ exports.questions = [
 					],
 					"difficulte" : "Intermédiaire",
 					"id" : "{48a163be-d471-434f-a7d3-7ca7e4d4f56d}",
-					"intituleDeLaQuestion" : "Les deux extrémités d'un câble désaffecté doivent être :",
+					"intituleDeLaQuestion" : "Les deux extrémités d’un câble désaffecté doivent être :",
 					"mauvaisesReponses" : [
 						{
 							"intitule" : "Raccordées à des bornes à ressort"
@@ -7612,7 +7615,7 @@ exports.questions = [
 					],
 					"difficulte" : "Intermédiaire",
 					"id" : "{82cf9cfa-bac4-4d2c-86a0-9e32297c6c97}",
-					"intituleDeLaQuestion" : "Les contrôles durant l’exploitation et les activités de maintenance peuvent permettre, par sondage, de maîtriser l'introduction de dangers potentiels dans les zones sans risque.",
+					"intituleDeLaQuestion" : "Les contrôles durant l’exploitation et les activités de maintenance peuvent permettre, par sondage, de maîtriser l’introduction de dangers potentiels dans les zones sans risque.",
 					"mauvaisesReponses" : [
 						{
 							"intitule" : "Vrai"
