@@ -3271,7 +3271,7 @@ exports.questions = [
 					"intituleDeLaQuestion" : "Dans la mesure du possible, il est recommandé que la conception intègre des dispositions pour réduire le risque d’introduction de panne durant les activités de maintenance tels que :",
 					"mauvaisesReponses"    : [
 						{
-							"intitule" : "Des composants pouvant être remplacés sans intervenir sur le câblage procédé"
+							"intitule" : "Des composants pouvant être remplacés en intervenant sur le câblage procédé"
 						}
 					],
 					"numeroQuestion"       : 140,
@@ -5344,22 +5344,17 @@ exports.questions = [
 				{
 					"bonnesReponses"       : [
 						{
-							"intitule" : "Aptitude fonctionnelle et performances"
-						},
-						{
-							"intitule" : "Qualité de la fabrication"
-						},
-						{
-							"intitule" : "Retour d’expérience"
-						},
-						{
-							"intitule" : "Limites et conditions d’utilisation"
+							"intitule" : "Vrai"
 						}
 					],
 					"difficulte"           : "Intermédiaire",
 					"id"                   : "{467d977c-8010-41eb-be35-f5021eaf6ed1}",
-					"intituleDeLaQuestion" : "Quelles sont les étapes qui doivent faire l’objet d’une consignation dans le REA ?",
-					"mauvaisesReponses"    : [],
+					"intituleDeLaQuestion" : "Les étapes suivantes doivent faire l’objet d’une consignation dans le REA : l'aptitude fonctionnelle et performances, la qualité de la fabrication, le retour d’expérience, les limites et conditions d’utilisation",
+					"mauvaisesReponses"    : [
+						{
+							"intitule" : "Faux"
+						}
+					],
 					"numeroQuestion"       : 229,
 					"theme"                : "ANFL",
 					"scoreMax"             : 3
@@ -6415,7 +6410,7 @@ exports.questions = [
 						}
 					],
 					"numeroQuestion"       : 274,
-					"theme"                : "Dispositions : Séparation",
+					"theme"                : "Séparation",
 					"scoreMax"             : 1
 				},
 				{
@@ -6439,7 +6434,7 @@ exports.questions = [
 						}
 					],
 					"numeroQuestion"       : 275,
-					"theme"                : "Dispositions : Séparation",
+					"theme"                : "Séparation",
 					"scoreMax"             : 2
 				},
 				{
@@ -6457,7 +6452,7 @@ exports.questions = [
 						}
 					],
 					"numeroQuestion"       : 276,
-					"theme"                : "Dispositions : Séparation",
+					"theme"                : "Séparation",
 					"scoreMax"             : 2
 				},
 			],
@@ -6483,7 +6478,7 @@ exports.questions = [
 						}
 					],
 					"numeroQuestion"       : 277,
-					"theme"                : "Dispositions : Séparation",
+					"theme"                : "Séparation",
 					"scoreMax"             : 3
 				},
 				{
@@ -6501,7 +6496,7 @@ exports.questions = [
 						}
 					],
 					"numeroQuestion"       : 278,
-					"theme"                : "Dispositions : Séparation",
+					"theme"                : "Séparation",
 					"scoreMax"             : 1
 				},
 			],
@@ -6527,7 +6522,7 @@ exports.questions = [
 						}
 					],
 					"numeroQuestion"       : 279,
-					"theme"                : "Dispositions : Séparation",
+					"theme"                : "Séparation",
 					"scoreMax"             : 4
 				},
 				{
@@ -6551,7 +6546,7 @@ exports.questions = [
 						}
 					],
 					"numeroQuestion"       : 280,
-					"theme"                : "Dispositions : Séparation",
+					"theme"                : "Séparation",
 					"scoreMax"             : 4
 				},
 			],
@@ -6579,7 +6574,7 @@ exports.questions = [
 						}
 					],
 					"numeroQuestion"       : 281,
-					"theme"                : "Dispositions : Exigences particulières pour le séisme",
+					"theme"                : "Exigences particulières pour le séisme",
 					"scoreMax"             : 2
 				},
 				{
@@ -6597,7 +6592,7 @@ exports.questions = [
 						}
 					],
 					"numeroQuestion"       : 282,
-					"theme"                : "Dispositions : Exigences particulières pour le séisme",
+					"theme"                : "Exigences particulières pour le séisme",
 					"scoreMax"             : 1
 				},
 				{
@@ -6620,7 +6615,7 @@ exports.questions = [
 					"intituleDeLaQuestion" : "Parmi ces modalités, lesquelles doivent être définies pour répondre au séisme ? ",
 					"mauvaisesReponses"    : [],
 					"numeroQuestion"       : 283,
-					"theme"                : "Dispositions : Exigences particulières pour le séisme",
+					"theme"                : "Exigences particulières pour le séisme",
 					"scoreMax"             : 2
 				},
 			],
@@ -6646,7 +6641,7 @@ exports.questions = [
 						}
 					],
 					"numeroQuestion"       : 284,
-					"theme"                : "Dispositions : Exigences particulières pour le séisme",
+					"theme"                : "Exigences particulières pour le séisme",
 					"scoreMax"             : 3
 				},
 				{
@@ -6664,7 +6659,7 @@ exports.questions = [
 						}
 					],
 					"numeroQuestion"       : 285,
-					"theme"                : "Dispositions : Exigences particulières pour le séisme",
+					"theme"                : "Exigences particulières pour le séisme",
 					"scoreMax"             : 1
 				},
 			],
@@ -6690,7 +6685,7 @@ exports.questions = [
 						}
 					],
 					"numeroQuestion"       : 286,
-					"theme"                : "Dispositions : Exigences particulières pour le séisme",
+					"theme"                : "Exigences particulières pour le séisme",
 					"scoreMax"             : 4
 				},
 				{
@@ -6714,7 +6709,7 @@ exports.questions = [
 						}
 					],
 					"numeroQuestion"       : 287,
-					"theme"                : "Dispositions : Exigences particulières pour le séisme",
+					"theme"                : "Exigences particulières pour le séisme",
 					"scoreMax"             : 4
 				},
 			],
@@ -6736,7 +6731,7 @@ exports.questions = [
 						}
 					],
 					"numeroQuestion"       : 288,
-					"theme"                : "Dispositions : Dispositifs",
+					"theme"                : "Dispositifs",
 					"scoreMax"             : 1
 				},
 				{
@@ -6760,7 +6755,7 @@ exports.questions = [
 						}
 					],
 					"numeroQuestion"       : 289,
-					"theme"                : "Dispositions : Dispositifs",
+					"theme"                : "Dispositifs",
 					"scoreMax"             : 2
 				},
 				{
@@ -6784,7 +6779,7 @@ exports.questions = [
 						}
 					],
 					"numeroQuestion"       : 290,
-					"theme"                : "Dispositions : Dispositifs",
+					"theme"                : "Dispositifs",
 					"scoreMax"             : 2
 				},
 			],
@@ -6810,7 +6805,7 @@ exports.questions = [
 						}
 					],
 					"numeroQuestion"       : 291,
-					"theme"                : "Dispositions : Dispositifs",
+					"theme"                : "Dispositifs",
 					"scoreMax"             : 3
 				},
 				{
@@ -6828,7 +6823,7 @@ exports.questions = [
 						}
 					],
 					"numeroQuestion"       : 292,
-					"theme"                : "Dispositions : Dispositifs",
+					"theme"                : "Dispositifs",
 					"scoreMax"             : 1
 				},
 			],
@@ -6854,7 +6849,7 @@ exports.questions = [
 						}
 					],
 					"numeroQuestion"       : 293,
-					"theme"                : "Dispositions : Dispositifs",
+					"theme"                : "Dispositifs",
 					"scoreMax"             : 4
 				},
 				{
@@ -6878,7 +6873,7 @@ exports.questions = [
 						}
 					],
 					"numeroQuestion"       : 294,
-					"theme"                : "Dispositions : Dispositifs",
+					"theme"                : "Dispositifs",
 					"scoreMax"             : 4
 				},
 			],
@@ -6900,7 +6895,7 @@ exports.questions = [
 						}
 					],
 					"numeroQuestion"       : 295,
-					"theme"                : "Dispositions : Raccordements",
+					"theme"                : "Raccordements",
 					"scoreMax"             : 1
 				},
 				{
@@ -6924,7 +6919,7 @@ exports.questions = [
 						}
 					],
 					"numeroQuestion"       : 296,
-					"theme"                : "Dispositions : Raccordements",
+					"theme"                : "Raccordements",
 					"scoreMax"             : 2
 				},
 				{
@@ -6948,7 +6943,7 @@ exports.questions = [
 						}
 					],
 					"numeroQuestion"       : 297,
-					"theme"                : "Dispositions : Raccordements",
+					"theme"                : "Raccordements",
 					"scoreMax"             : 2
 				},
 			],
@@ -6968,7 +6963,7 @@ exports.questions = [
 						}
 					],
 					"numeroQuestion"       : 298,
-					"theme"                : "Dispositions : Raccordements",
+					"theme"                : "Raccordements",
 					"scoreMax"             : 1
 				},
 				{
@@ -6992,7 +6987,7 @@ exports.questions = [
 						}
 					],
 					"numeroQuestion"       : 299,
-					"theme"                : "Dispositions : Raccordements",
+					"theme"                : "Raccordements",
 					"scoreMax"             : 3
 				},
 			],
@@ -7018,7 +7013,7 @@ exports.questions = [
 						}
 					],
 					"numeroQuestion"       : 300,
-					"theme"                : "Dispositions : Raccordements",
+					"theme"                : "Raccordements",
 					"scoreMax"             : 4
 				},
 				{
@@ -7042,7 +7037,7 @@ exports.questions = [
 						}
 					],
 					"numeroQuestion"       : 301,
-					"theme"                : "Dispositions : Raccordements",
+					"theme"                : "Raccordements",
 					"scoreMax"             : 4
 				},
 			],
@@ -7064,7 +7059,7 @@ exports.questions = [
 						}
 					],
 					"numeroQuestion"       : 302,
-					"theme"                : "Dispositions : Réseaux de terre et de masse",
+					"theme"                : "Réseaux de terre et de masse",
 					"scoreMax"             : 1
 				},
 				{
@@ -7088,7 +7083,7 @@ exports.questions = [
 						}
 					],
 					"numeroQuestion"       : 303,
-					"theme"                : "Dispositions : Réseaux de terre et de masse",
+					"theme"                : "Réseaux de terre et de masse",
 					"scoreMax"             : 2
 				},
 				{
@@ -7111,7 +7106,7 @@ exports.questions = [
 					"intituleDeLaQuestion" : "Les exigences de conception et de réalisation des réseaux de Terre et de Masse s’appuient sur les paramètres suivants :",
 					"mauvaisesReponses"    : [],
 					"numeroQuestion"       : 304,
-					"theme"                : "Dispositions : Réseaux de terre et de masse",
+					"theme"                : "Réseaux de terre et de masse",
 					"scoreMax"             : 2
 				},
 			],
@@ -7131,7 +7126,7 @@ exports.questions = [
 						}
 					],
 					"numeroQuestion"       : 305,
-					"theme"                : "Dispositions : Réseaux de terre et de masse",
+					"theme"                : "Réseaux de terre et de masse",
 					"scoreMax"             : 1
 				},
 				{
@@ -7155,7 +7150,7 @@ exports.questions = [
 						}
 					],
 					"numeroQuestion"       : 306,
-					"theme"                : "Dispositions : Réseaux de terre et de masse",
+					"theme"                : "Réseaux de terre et de masse",
 					"scoreMax"             : 3
 				},
 			],
@@ -7181,7 +7176,7 @@ exports.questions = [
 						}
 					],
 					"numeroQuestion"       : 307,
-					"theme"                : "Dispositions : Réseaux de terre et de masse",
+					"theme"                : "Réseaux de terre et de masse",
 					"scoreMax"             : 4
 				},
 				{
@@ -7205,7 +7200,7 @@ exports.questions = [
 						}
 					],
 					"numeroQuestion"       : 308,
-					"theme"                : "Dispositions : Réseaux de terre et de masse",
+					"theme"                : "Réseaux de terre et de masse",
 					"scoreMax"             : 4
 				},
 			],
@@ -7233,7 +7228,7 @@ exports.questions = [
 						}
 					],
 					"numeroQuestion"       : 309,
-					"theme"                : "Dispositions : Identification des liaisons",
+					"theme"                : "Identification des liaisons",
 					"scoreMax"             : 2
 				},
 				{
@@ -7251,7 +7246,7 @@ exports.questions = [
 						}
 					],
 					"numeroQuestion"       : 310,
-					"theme"                : "Dispositions : Identification des liaisons",
+					"theme"                : "Identification des liaisons",
 					"scoreMax"             : 1
 				},
 				{
@@ -7275,7 +7270,7 @@ exports.questions = [
 						}
 					],
 					"numeroQuestion"       : 311,
-					"theme"                : "Dispositions : Identification des liaisons",
+					"theme"                : "Identification des liaisons",
 					"scoreMax"             : 2
 				},
 			],
@@ -7301,7 +7296,7 @@ exports.questions = [
 						}
 					],
 					"numeroQuestion"       : 312,
-					"theme"                : "Dispositions : Identification des liaisons",
+					"theme"                : "Identification des liaisons",
 					"scoreMax"             : 3
 				},
 				{
@@ -7319,7 +7314,7 @@ exports.questions = [
 						}
 					],
 					"numeroQuestion"       : 313,
-					"theme"                : "Dispositions : Identification des liaisons",
+					"theme"                : "Identification des liaisons",
 					"scoreMax"             : 1
 				},
 			],
@@ -7345,7 +7340,7 @@ exports.questions = [
 						}
 					],
 					"numeroQuestion"       : 314,
-					"theme"                : "Dispositions : Identification des liaisons",
+					"theme"                : "Identification des liaisons",
 					"scoreMax"             : 4
 				},
 				{
@@ -7369,7 +7364,7 @@ exports.questions = [
 						}
 					],
 					"numeroQuestion"       : 315,
-					"theme"                : "Dispositions : Identification des liaisons",
+					"theme"                : "Identification des liaisons",
 					"scoreMax"             : 4
 				},
 			],
@@ -8351,6 +8346,169 @@ exports.questions = [
 					],
 					"numeroQuestion"       : 357,
 					"theme"                : "Conception des systèmes électriques",
+					"scoreMax"             : 4
+				}
+			]
+		},
+		"Procédure de gestion du Dossier de Référence"             : {
+			"Débutant"      : [
+				{
+					"bonnesReponses"       : [
+						{
+							"intitule" : "Les services à consulter et leurs responsabilités"
+						},
+						{
+							"intitule" : "Les dispositions à prendre pour déterminer le caractère majeur ou mineur des modifications"
+						},
+						{
+							"intitule" : "Les modalités d’accord avant mise à exécution de la modification"
+						},
+						{
+							"intitule" : "Les modalités d’actualisation des DR qui doivent être fixées par le Donneur d’Ordre"
+						},
+					],
+					"difficulte"           : "Débutant",
+					"id"                   : "{2eefb26f-f8b0-4899-851e-c82784c00557}",
+					"intituleDeLaQuestion" : "Que doit identifier a minima une procédure de gestion du Dossier de Référence ?",
+					"mauvaisesReponses"    : [],
+					"numeroQuestion"       : 358,
+					"theme"                : "Procédure de gestion du Dossier de Référence",
+					"scoreMax"             : 2
+				},
+				{
+					"bonnesReponses"       : [
+						{
+							"intitule" : "A chaque commande pour les modifications majeures"
+						},
+						{
+							"intitule" : "Une fois par an pour l’ensemble des modifications"
+						}
+					],
+					"difficulte"           : "Débutant",
+					"id"                   : "{6762995b-8b3a-4806-a2c3-35c5b3101411}",
+					"intituleDeLaQuestion" : "Quelles sont, par défaut, les modalités d’actualisation des DR ?",
+					"mauvaisesReponses"    : [
+						{
+							"intitule" : "A chaque commande pour toutes les modifications"
+						},
+						{
+							"intitule" : "Aucune modalité n’est fixée par défaut par le code"
+						}
+					],
+					"numeroQuestion"       : 359,
+					"theme"                : "Procédure de gestion du Dossier de Référence",
+					"scoreMax"             : 2
+				},
+				{
+					"bonnesReponses"       : [
+						{
+							"intitule" : "Vrai"
+						}
+					],
+					"difficulte"           : "Débutant",
+					"id"                   : "{45b31cd4-340f-4c9a-9115-2b96a457918e}",
+					"intituleDeLaQuestion" : "La modification suivante est-elle considérée comme majeure : « Modification affectant l’efficacité de l’organisation de la qualité ou du contrôle des fabrications » ?",
+					"mauvaisesReponses"    : [
+						{
+							"intitule" : "Faux"
+						}
+					],
+					"numeroQuestion"       : 360,
+					"theme"                : "Procédure de gestion du Dossier de Référence",
+					"scoreMax"             : 1
+				}
+			],
+			"Intermédiaire" : [
+				{
+					"bonnesReponses"       : [
+						{
+							"intitule" : "La nature et le motif de la modification"
+						},
+						{
+							"intitule" : "Le caractère majeur ou mineur de la modification"
+						}
+					],
+					"difficulte"           : "Intermédiaire",
+					"id"                   : "{048c4686-f25e-4238-91ec-463b499564a0}",
+					"intituleDeLaQuestion" : "Que doit comporter a minima comme informations les fiches de modifications ?",
+					"mauvaisesReponses"    : [
+						{
+							"intitule" : "Pour une modification majeure, obligatoirement les essais de qualification réalisés"
+						},
+						{
+							"intitule" : "La référence de la NSQ"
+						}
+					],
+					"numeroQuestion"       : 361,
+					"theme"                : "Procédure de gestion du Dossier de Référence",
+					"scoreMax"             : 3
+				},
+				{
+					"bonnesReponses"       : [
+						{
+							"intitule" : "Faux"
+						}
+					],
+					"difficulte"           : "Intermédiaire",
+					"id"                   : "{b6da260a-c8b8-4acd-a1d7-ac5a4fc990db}",
+					"intituleDeLaQuestion" : "Les modifications sont considérées comme majeures dans le cas où elles sont susceptibles de remettre en cause uniquement la conformité au modèle qualifié ?",
+					"mauvaisesReponses"    : [
+						{
+							"intitule" : "Vrai"
+						}
+					],
+					"numeroQuestion"       : 362,
+					"theme"                : "Procédure de gestion du Dossier de Référence",
+					"scoreMax"             : 1
+				}
+			],
+			"Expert"        : [
+				{
+					"bonnesReponses"       : [
+						{
+							"intitule" : "Que la surveillance soit définie par le Donneur d’Ordre"
+						}
+					],
+					"difficulte"           : "Expert",
+					"id"                   : "{3121e0d9-5d7e-4af4-8b19-a22e74d85401}",
+					"intituleDeLaQuestion" : "Lors d’une modification mineure d’un matériel qualifié K1, le code exige :",
+					"mauvaisesReponses"    : [
+						{
+							"intitule" : "Un accord du Donneur d’Ordre"
+						},
+						{
+							"intitule" : "Une information préalable avant mise en œuvre"
+						},
+						{
+							"intitule" : "Une information sans aucune autre prescription"
+						}
+					],
+					"numeroQuestion"       : 363,
+					"theme"                : "Procédure de gestion du Dossier de Référence",
+					"scoreMax"             : 4
+				},
+				{
+					"bonnesReponses"       : [
+						{
+							"intitule" : "Démontrer le maintien de la qualification"
+						},
+						{
+							"intitule" : "Démontrer la remise en cause de la qualification"
+						},
+						{
+							"intitule" : "L’impact sur la FMQ"
+						}
+					],
+					"difficulte"           : "Expert",
+					"id"                   : "{31d5e373-05fa-44b6-8c47-3ce2e2caa2f8}",
+					"intituleDeLaQuestion" : "L’argumentaire associé aux fiches de modifications doit :",
+					"mauvaisesReponses"    : [
+						{
+							"intitule" : "L’impact sur le DI"
+						}
+					],
+					"numeroQuestion"       : 364,
+					"theme"                : "Procédure de gestion du Dossier de Référence",
 					"scoreMax"             : 4
 				}
 			]

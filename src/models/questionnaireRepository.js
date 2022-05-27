@@ -66,21 +66,13 @@ exports.compareQuestionBonnesReponses = (
 	let questionTrouvee = {};
 	for (const question of
 		questions[0][theme][difficulte]) {
-		if (question.numeroQuestion === numeroQuestion) {
+		if (question.numeroQuestion == numeroQuestion) {
 			questionTrouvee = question;
 		}
 	}
 	if (!questionTrouvee) {
 		throw new Error('Question introuvable');
 	}
-	console.log(
-		'questionTrouvee.bonnesReponses.length :',
-		questionTrouvee.bonnesReponses.length
-	)
-	console.log(
-		'bonnesReponses.length :',
-		bonnesReponses.length
-	)
 	if (questionTrouvee.bonnesReponses.length !== bonnesReponses.length) {
 		return false
 	}
