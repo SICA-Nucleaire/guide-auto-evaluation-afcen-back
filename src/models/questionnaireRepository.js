@@ -22,32 +22,50 @@ function getRandomInt(max) {
 }
 
 exports.getQuestionnaire = (theme) => {
-	let tab = []
-	const questionDebutant = questions[0][theme]["Débutant"][getRandomInt(3)]
+	let tab                     = []
+	const questionDebutant      = questions[0][theme]["Débutant"][getRandomInt(3)]
 	const questionIntermediaire = questions[0][theme]["Intermédiaire"][getRandomInt(2)]
-	const questionExpert = questions[0][theme]["Expert"][getRandomInt(2)]
+	const questionExpert        = questions[0][theme]["Expert"][getRandomInt(2)]
 	tab.push(questionDebutant);
 	tab.push(questionIntermediaire);
 	tab.push(questionExpert);
-	const id = `${questionDebutant.id.substring(1).slice(0, -1)}-${questionIntermediaire.id.substring(1).slice(0, -1)}-${questionExpert.id.substring(1).slice(0, -1)}`
+	const id       = `${questionDebutant.id.substring(1).slice(
+		0,
+		-1
+	)}-${questionIntermediaire.id.substring(1).slice(
+		0,
+		-1
+	)}-${questionExpert.id.substring(1).slice(
+		0,
+		-1
+	)}`
 	const scoreMax = questionDebutant.scoreMax + questionIntermediaire.scoreMax + questionExpert.scoreMax
 	tab.push({
 		         "scoreMax" : scoreMax,
-		         "id" : id
+		         "id"       : id
 	         })
 	return tab
 }
 
-const isInArray = (array, intitule) => {
+const isInArray = (
+	array,
+	intitule
+) => {
 	const requiredIndex = array.findIndex(el => {
 		return el.intitule === String(intitule);
 	})
 	return requiredIndex !== -1;
 }
 
-exports.compareQuestionBonnesReponses = (numeroQuestion, bonnesReponses, theme, difficulte) => {
+exports.compareQuestionBonnesReponses = (
+	numeroQuestion,
+	bonnesReponses,
+	theme,
+	difficulte
+) => {
 	let questionTrouvee = {};
-	for (const question of questions[0][theme][difficulte]) {
+	for (const question of
+		questions[0][theme][difficulte]) {
 		if (question.numeroQuestion === numeroQuestion) {
 			questionTrouvee = question;
 		}
@@ -55,14 +73,25 @@ exports.compareQuestionBonnesReponses = (numeroQuestion, bonnesReponses, theme, 
 	if (!questionTrouvee) {
 		throw new Error('Question introuvable');
 	}
-
+	console.log(
+		'questionTrouvee.bonnesReponses.length :',
+		questionTrouvee.bonnesReponses.length
+	)
+	console.log(
+		'bonnesReponses.length :',
+		bonnesReponses.length
+	)
 	if (questionTrouvee.bonnesReponses.length !== bonnesReponses.length) {
 		return false
 	}
-
+	
 	if (bonnesReponses.length > 1) {
-		for (const bonneReponse of bonnesReponses) {
-			if (!isInArray(questionTrouvee.bonnesReponses, bonneReponse.intitule)) {
+		for (const bonneReponse of
+			bonnesReponses) {
+			if (!isInArray(
+				questionTrouvee.bonnesReponses,
+				bonneReponse.intitule
+			)) {
 				return false
 			}
 		}
