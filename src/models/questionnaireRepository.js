@@ -76,7 +76,16 @@ exports.compareQuestionBonnesReponses = (
 	if (questionTrouvee.bonnesReponses.length !== bonnesReponses.length) {
 		return false
 	}
-	
+	console.log('-----------------------------------')
+	console.log(
+		'questionTrouvee.bonnesReponses :',
+		questionTrouvee.bonnesReponses
+	)
+	console.log(
+		'bonnesReponses :',
+		bonnesReponses
+	)
+	console.log('-----------------------------------')
 	if (bonnesReponses.length > 1) {
 		for (const bonneReponse of
 			bonnesReponses) {
@@ -84,6 +93,10 @@ exports.compareQuestionBonnesReponses = (
 				questionTrouvee.bonnesReponses,
 				bonneReponse.intitule
 			)) {
+				console.log(
+					'PROBLEME :',
+					questionTrouvee.numeroQuestion
+				)
 				return false
 			}
 		}

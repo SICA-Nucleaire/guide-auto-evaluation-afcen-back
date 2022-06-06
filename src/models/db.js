@@ -659,7 +659,7 @@ exports.questions = [
 				},
 			],
 		},
-		"Procès verbal d’essais"                                   : {
+		"Procès-Verbal d’essais"                                   : {
 			"Débutant"      : [
 				{
 					"bonnesReponses"       : [
