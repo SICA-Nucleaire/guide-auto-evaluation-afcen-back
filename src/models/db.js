@@ -5357,7 +5357,7 @@ exports.questions = [
 					],
 					"numeroQuestion"       : 229,
 					"theme"                : "ANFL",
-					"scoreMax"             : 3
+					"scoreMax"             : 1
 				},
 			],
 			"Expert"        : [

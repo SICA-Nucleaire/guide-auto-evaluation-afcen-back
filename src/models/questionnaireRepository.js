@@ -89,18 +89,50 @@ exports.compareQuestionBonnesReponses = (
 	if (bonnesReponses.length > 1) {
 		for (const bonneReponse of
 			bonnesReponses) {
-			if (!isInArray(
-				questionTrouvee.bonnesReponses,
-				bonneReponse.intitule
-			)) {
+			if (
+				!isInArray(
+					questionTrouvee.bonnesReponses,
+					bonneReponse.intitule
+				)
+			) {
 				console.log(
-					'PROBLEME :',
-					questionTrouvee.numeroQuestion
+					"La question",
+					questionTrouvee.numeroQuestion,
+					"(",
+					questionTrouvee.theme,
+					") n'est pas bonne."
 				)
 				return false
 			}
 		}
+		console.log(
+			"La question",
+			questionTrouvee.numeroQuestion,
+			"(",
+			questionTrouvee.theme,
+			") est bonne."
+		)
 		return true
 	}
-	return JSON.stringify(bonnesReponses) === JSON.stringify(questionTrouvee.bonnesReponses)
+	const check = JSON.stringify(bonnesReponses) === JSON.stringify(questionTrouvee.bonnesReponses)
+	if (check) {
+		console.log(
+			"La question",
+			questionTrouvee.numeroQuestion,
+			"(",
+			questionTrouvee.theme,
+			") est bonne."
+		)
+		return true
+	}
+	else {
+		console.log(
+			"La question",
+			questionTrouvee.numeroQuestion,
+			"(",
+			questionTrouvee.theme,
+			") n'est pas bonne."
+		)
+		return false
+	}
 }
